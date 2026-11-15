@@ -1,0 +1,7 @@
+name = "finance-goal"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "finance-tracker-db"
+database_id = "0d418845-44ab-480b-9e62-4d7cfed8b6d3"
